@@ -20,3 +20,11 @@ h1 {
         border-color: transparent;
     }
 }
+.cumquat {
+    
+
+    white-space: nowrap;
+    overflow: hidden;
+    animation: typing 3s steps(26, end),
+        cursor-blink 0.3s step-end infinite alternate; 
+}

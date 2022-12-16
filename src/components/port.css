@@ -1,0 +1,16 @@
+.modal.open {
+    /* Set the opacity to 1 to make the modal visible */
+    opacity: 1;
+  
+    /* Use the translateY function to slide the modal in from the bottom */
+    transform: translateY(0);
+  }
+
+  .modal {
+    /* Add a transition effect for the opacity property */
+    transition: opacity 0.5s ease-in-out;
+  
+    /* Add a transition effect for the transform property */
+    transition: transform 0.5s ease-in-out;
+  }
+  
