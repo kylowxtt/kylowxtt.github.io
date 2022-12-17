@@ -40,8 +40,8 @@ function PortfolioItem({ title, imgUrl, stack, link, information }) {
             className='fixed top-0 left-0 right-0 bottom-0 bg-black bg-opacity-75 -z-50 flex items-center justify-center'
           ></div>
           <animated.div
-            className='relative w-3/4 lg:w-1/2 xl:w-1/3 m-4 z-1'
-            style={modalSpring}
+            className='relative m-4 z-1'
+            style={{...modalSpring, width: '30vw', height: '50vh'}}
           >
             <div className='absolute top-0 right-0 m-2'>
               <button
@@ -51,16 +51,16 @@ function PortfolioItem({ title, imgUrl, stack, link, information }) {
                 <i className='fa fa-times' aria-hidden='true'></i>
               </button>
             </div>
-            <div className='bg-stone-400 p-4 rounded-md h-64 flex justify-center'>
-              <div className='relative p-4 bg-gray-200 w-72 flex rounded-md text-black justify-center text-[14px] z-10' >
+            <div className='bg-stone-200 p-4 rounded-md h-128 flex justify-center'>
+              <div className='relative p-4 bg-gray-200 w-64 flex rounded-md text-black justify-center items-center text-[14px] z-10' >
                 {information} 
               </div>
             </div>
           </animated.div>
-        </div>
-      )}
+        </div>      )}
     </>
   );
 }
 
-export default PortfolioItem
+export default PortfolioItem;
+
