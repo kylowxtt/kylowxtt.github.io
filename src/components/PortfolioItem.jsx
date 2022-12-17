@@ -53,7 +53,7 @@ function PortfolioItem({ title, imgUrl, stack, link, information }) {
             </div>
             <div className='bg-stone-400 p-4 rounded-md h-64 flex justify-center'>
               <div className='relative p-4 bg-gray-200 w-72 flex rounded-md text-black justify-center text-[14px] z-10' >
-                {information}
+                {information} 
               </div>
             </div>
           </animated.div>

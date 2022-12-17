@@ -1,5 +1,12 @@
 export default [
     {
+        title: 'Portfolio Website',
+        imgUrl: 'assets/Screenshot from 2022-12-17 12-07-58.png',
+        stack: ['JavaScript', 'TypeScript', 'ReactJS','TailwindCSS'],
+        link: 'https://standin.com',
+        information: "This is the website you are currently viewing. I incorporated ReactJS and Vite for the basic functionality of the website, and primarily utilised TailwindCSS for the styling and design. The full code for this website can be found at my Github Repo.",
+    },
+    {
         title: 'UNSW Beans',
         imgUrl: 'assets/beans.png',
         stack: ['JavaScript','TypeScript','NodeJs','Git'],
@@ -20,4 +27,5 @@ export default [
         link: 'https://standin.com',
         information: "This app was made in order for me to learn about how API's worked. I coded a simple chat-bot type application in ReactJs and used the JavaScript server knowledge I have learnt in order to utilise this API and return player ranks. Code available upon request."
     },
+
 ]
