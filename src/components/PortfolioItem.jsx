@@ -57,7 +57,7 @@ function PortfolioItem({ title, imgUrl, stack, link, information, button }) {
               </div>
               {button && (
                 <div className='h-16 bottom-0 absolute w-full'>
-                  <a href='https://github.com/kylowxtt/kylowxtt.github.io' target='__blank'>
+                  <a href={link} target='__blank'>
                   <button className='mt-2 rounded-md px-3 py-2 bg-blue-600 text-xs font-semibold block mx-auto'>
                     {button}
                   </button></a>
