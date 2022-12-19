@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 import { animated, useSpring } from 'react-spring';
 
-function PortfolioItem({ title, imgUrl, stack, link, information }) {
+function PortfolioItem({ title, imgUrl, stack, link, information, button }) {
   const [isModalOpen, setModalOpen] = useState(false);
   const modalSpring = useSpring({
     transform: isModalOpen ? 'scale(1)' : 'scale(0)',
@@ -51,10 +51,18 @@ function PortfolioItem({ title, imgUrl, stack, link, information }) {
                 <i className='fa fa-times' aria-hidden='true'></i>
               </button>
             </div>
-            <div className='bg-stone-200 p-4 rounded-md h-128 flex justify-center'>
-              <div className='relative p-4 bg-gray-200 w-64 flex rounded-md text-black justify-center items-center text-[14px] z-10' >
+            <div className='bg-stone-200 p-4 rounded-md h-full flex flex-col justify-center'>
+              <div className='relative p-4 bg-gray-200 w-full mx-auto flex rounded-md text-black justify-center items-center text-[14px] z-10'>
                 {information} 
               </div>
+              {button && (
+                <div className='h-16 bottom-0 absolute w-full'>
+                  <a href='https://github.com/kylowxtt/kylowxtt.github.io' target='__blank'>
+                  <button className='mt-2 rounded-md px-3 py-2 bg-blue-600 text-xs font-semibold block mx-auto'>
+                    {button}
+                  </button></a>
+                </div>
+              )}
             </div>
           </animated.div>
         </div>      )}

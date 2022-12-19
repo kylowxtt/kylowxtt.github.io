@@ -22,6 +22,7 @@
     "@vitejs/plugin-react": "^3.0.0",
     "autoprefixer": "^10.4.13",
     "gh-pages": "^4.0.0",
+    "he": "^1.2.0",
     "postcss": "^8.4.20",
     "react-scroll-animations": "^0.0.1",
     "react-spring": "^9.6.0",
