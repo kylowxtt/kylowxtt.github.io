@@ -26,7 +26,7 @@ It's fine. Like honestly speaking - I don't get the hate (and I know the hate is
 
 ## Fitness 
 
-I also really enjoy working out quite a bit. I am currently on a 6 day PPL routine, and somewhat hovering between a cut and a bulk. I've been trying to further my muscle gains on this regard, but I definitely need to increase the amount of protein I intake. I am also slowly getting into the UFC / MMA, but not in a douchebro way I promise :skull:. But yeah, in that regard I am also really getting into the concept of Brazillian Jiu Jutsu, which I am slowly taking classes on with some of my friends. My goal is to be more understanding of how my body's mechanics can be utilised to generate raw power - I have always been athletic and played many sports since I was a kid, so I wish to learn how I can apply that to day to day issues, and also maintain the level of athleticism I have on hand. 
+I also really enjoy working out quite a bit. I am currently on a 6 day PPL routine, and somewhat hovering between a cut and a bulk. I've been trying to further my muscle gains on this regard, but I definitely need to increase the amount of protein I intake. I am also slowly getting into the UFC / MMA, but not in a douchebro way I promise :skull:. But yeah, in that regard I am also really getting into the concept of Brazillian Jiu Jutsu, which I am slowly taking classes on with some of my friends. This year I really want to expand my competitive spirit - specifically my drive to achieve hard things for the sake of achieving hard things. I've been watching videos by and on professional athletes and the way they compartmentalise their goals and shoot for them with disregard to anything outside of said goal.
 
 ## Books 
 
