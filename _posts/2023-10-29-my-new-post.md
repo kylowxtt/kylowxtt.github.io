@@ -25,6 +25,7 @@ As I previously said, I am currently undertaking COMP2511. I find this to be an 
 It's fine. Like honestly speaking - I don't get the hate (and I know the hate is just a small minority being loud). Its a great way to organise and design your code. It makes it very easy to create extensible code and I honestly could not fathom how to program any larger project in a procedural style. I don't know specifically why, but I have loved the concept of abstraction ever since I discovered it - the idea of being able to ignore everything but the exact thing I am working on is very very appealing to me, and it feels like this concept is very well utilised in the concept of OOP. When your code is written nicely, it feels amazing. 
 
 
+I also really enjoy working out quite a bit. I am currently on a 6 day PPL routine, and somewhat hovering between a cut and a bulk. I've been trying to further my muscle gains on this regard, but I definitely need to increase the amount of protein I intake. I am also slowly getting into the UFC / MMA, but not in a douchebro way I promise :skull:. But yeah, in that regard I am also really getting into the concept of Brazillian Jiu Jutsu, which I am slowly taking classes on with some of my friends. My goal is to be more understanding of how my body's mechanics can be utilised to generate raw power - I have always been athletic and played many sports since I was a kid, so I wish to learn how I can apply that to day to day issues, and also maintain the level of athleticism I have on hand. 
 
 ## Books 
 
