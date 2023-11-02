@@ -8,7 +8,7 @@ tags: [oop, design, introduction, philosophy, fitness, books]
 
 # An Introduction and Experiment of Sorts
 
-Hello, welcome to my blog page! This is (hopefully) the first post you are reading on here, and it is also the very first post I am creating. The name I primarily use online is **Kylo**, but when I get comfortable enough I might rebrand into my real name :D. In this blog, you can expect a lot of random stuff, but it will primarily be focused on Computer Science, Fitness and Books. I decided to start this blog primarily because of COMP2511, which made me fall in love with Markdown and the simplicity of formatting it offers and [Featherbear's blog](https://featherbear.cc/) - they both really inspired me to get started on writing stuff on my own, especially cause I come across a lot of cool Computer Science related stuff in my studies nowadays, and it'll be a cool way to consolidate my knowledge. 
+Hello. This is the start of my website. I decided to start this blog primarily because of COMP2511, which made me fall in love with Markdown and the simplicity of formatting it offers and [Featherbear's blog](https://featherbear.cc/) - they both really inspired me to get started on writing stuff on my own, especially cause I come across a lot of cool Computer Science related stuff in my studies nowadays, and it'll be a cool way to consolidate my knowledge. 
 
 To christen my blog and get it ready for it's first voyage on the deep-web, I guess I will talk about the stuff I am currently into, and what stuff you might see come up in the future. 
 
@@ -24,9 +24,7 @@ As I previously said, I am currently undertaking COMP2511. I find this to be an 
 
 It's fine. Like honestly speaking - I don't get the hate (and I know the hate is just a small minority being loud). Its a great way to organise and design your code. It makes it very easy to create extensible code and I honestly could not fathom how to program any larger project in a procedural style. I don't know specifically why, but I have loved the concept of abstraction ever since I discovered it - the idea of being able to ignore everything but the exact thing I am working on is very very appealing to me, and it feels like this concept is very well utilised in the concept of OOP. When your code is written nicely, it feels amazing. 
 
-## Fitness 
 
-I also really enjoy working out quite a bit. I am currently on a 6 day PPL routine, and somewhat hovering between a cut and a bulk. I've been trying to further my muscle gains on this regard, but I definitely need to increase the amount of protein I intake. I am also slowly getting into the UFC / MMA, but not in a douchebro way I promise :skull:. But yeah, in that regard I am also really getting into the concept of Brazillian Jiu Jutsu, which I am slowly taking classes on with some of my friends. My goal is to be more understanding of how my body's mechanics can be utilised to generate raw power - I have always been athletic and played many sports since I was a kid, so I wish to learn how I can apply that to day to day issues, and also maintain the level of athleticism I have on hand. 
 
 ## Books 
 
@@ -40,10 +38,5 @@ I like to read. A lot. Here is a taste into some of the books I have enjoyed (a 
 - [x] Mistborn
 - [ ] Kingkiller Chronicles 
 - [ ] Assassin's Apprentice 
-
-
-## Other Media 
-
-I am currently enjoying Gen V, and the new Rick and Morty series (the new voices are indistinguishable anyone that says otherwise is lying to you). 
 
 
